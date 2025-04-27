@@ -9,7 +9,7 @@ Give each patient a 'Yes' if they have insurance, and a 'No' if they don't have 
 Add up the admission_total cost for each has_insurance group.
 */
 
-*/
+/*
 This problem:
 I want to use has_insurance for calculations but it's in itself a calculated column.
 For this I need to use a Common Table Expression (CTE). 
